@@ -11,6 +11,9 @@ public class CamMove : MonoBehaviour
     public float YSpeed = 0;
     public float JumpImpulse;
 
+
+
+    //коммент
     // Start is called before the first frame update
     void Start()
     {
