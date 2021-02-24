@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 44c0b36893dc75245ba562eebb25f1fa
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/lvl2.unity
+    guid: 4fa797a779419854bb63937cc6df1603
+  - enabled: 1
+    path: Assets/Scenes/lvl3.unity
+    guid: 70274ad9a4e6a264c9dd895dddeb3805
+  - enabled: 1
+    path: Assets/Scenes/lvl4.unity
+    guid: 279dbac28f865a24cabb501d56440b1f
+  - enabled: 1
+    path: Assets/Scenes/InGameMenu.unity
+    guid: fb5dc804f63e24c43b2b255656bda31c
   m_configObjects: {}
